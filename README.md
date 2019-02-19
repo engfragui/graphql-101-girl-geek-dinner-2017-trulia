@@ -1,1 +1,1 @@
-Slides for my talk "GraphQL 101 | An introduction to the world of GraphQL"
+Slides for my talk "GraphQL 101: An introduction to the world of GraphQL"
