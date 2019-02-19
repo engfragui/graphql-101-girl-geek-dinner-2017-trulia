@@ -1,2 +1,1 @@
-# graphql-101-talk
-An introduction to the world of GraphQL (slide deck)
+Slides for my talk "GraphQL 101 | An introduction to the world of GraphQL"
